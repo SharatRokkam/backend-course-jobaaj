@@ -1,0 +1,5 @@
+Q1: What is REPL in Node.js?
+Q2: Difference between __dirname and __filename?
+Q3: What is process.argv used for?
+Q4: What is process.env?
+Q5: Is process global?

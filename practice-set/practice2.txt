@@ -1,0 +1,39 @@
+# 🧠 Node.js Questions (Topic 04, 05, 06)
+
+---
+
+### 1️⃣ What is `package.json` and why is it important in a Node.js project?
+
+---
+
+### 2️⃣ What is the difference between `dependencies` and `devDependencies`?
+
+---
+
+### 3️⃣ Why should we not push `node_modules` to GitHub?
+
+---
+
+### 4️⃣ What is the difference between synchronous and asynchronous methods in the `fs` module?
+
+---
+
+### 5️⃣ What is EventEmitter in Node.js?
+
+---
+
+### 6️⃣ Write a program to create a file and write some data using the `fs` module.
+
+---
+
+### 7️⃣ Write a program to read data from a file and display it in the console.
+
+---
+
+### 8️⃣ Take input from the terminal using `process.argv` and store it in a file.
+
+---
+
+
+### 9️⃣ Create a custom event using EventEmitter and trigger it to print a message.
+

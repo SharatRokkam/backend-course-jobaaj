@@ -1,0 +1,16 @@
+{
+  "name": "script.js",
+  "version": "1.0.0",
+  "description": "We are learning JS runtime - Nodejs",
+  "license": "ISC",
+  "author": "Sharat Rokkam",
+  "type": "commonjs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
